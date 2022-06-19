@@ -19,7 +19,6 @@
       "survey_api_key":"REPLACE_WITH_YOUR_API_KEY",
 
       "on_off_survey":"0",
-      "default_coins": 300,
       "reward_coins_video": 150,
       "reward_coins_survey": 250,
       "use_coins_download": 50,
