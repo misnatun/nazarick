@@ -7,13 +7,21 @@
       "main_ads_banner": "ca-app-pub-1560107526419801/5595725771",
       "main_ads_intertitial":"ca-app-pub-1560107526419801/6908807444",
       "main_native_ads_Admob_or_applovin":"ca-app-pub-1560107526419801/5595725771",
+      "main_ads_rewards":"",
 
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
       "backup_native_ads_Admob_or_applovin":"",
+      "backup_ads_rewards":"",
 
       "interval_for_native":"6",
       "interval_intertitial": 2,
+      "survey_api_key":"",
+
+      "default_coins": 300,
+      "reward_coins_video": 150,
+      "reward_coins_survey": 250,
+      "use_coins_download": 50,
 
       "initialize_sdk":"",
       "initialize_sdk_backup_ads":"",
@@ -33,7 +41,7 @@
 
       "on_off_protect_app": "false",
       "license_key": ""
-	  
+    
     }
   ],
   "More":
