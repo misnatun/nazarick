@@ -18,8 +18,8 @@
       "interval_intertitial": 2,
       "survey_api_key":"",
 
-      "default_coins": 300,
-      "reward_coins_video": 150,
+      "default_coins": 400,
+      "reward_coins_video": 100,
       "reward_coins_survey": 250,
       "use_coins_download": 50,
 
