@@ -16,9 +16,9 @@
 
       "interval_for_native":"6",
       "interval_intertitial": 2,
-      "survey_api_key":"REPLACE_WITH_YOUR_API_KEY",
+      "survey_api_key":"cccbe5cc-3583-4c88-8956-86f04e5d09da",
 
-      "on_off_survey":"0",
+      "on_off_survey":"1",
       "default_coins": 300,
       "reward_coins_video": 100,
       "reward_coins_survey": 250,
