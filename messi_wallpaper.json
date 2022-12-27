@@ -55,58 +55,64 @@
   "More":
   [
     {
+      "id": 10,
+      "title": "Hi TV HD Drama Tips",
+      "image": "https://play-lh.googleusercontent.com/AnRqHhLkV7kqHEnpG6Y-Nqj_U2UGOo_enGlCqZPi9wmC-XjstECXpSFa-jpLeWVxexw=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.hitvhddramakoreantips"
+    },
+    {
       "id": 9,
-      "title": "Ronaldo Wallpaper HD",
-      "image": "https://play-lh.googleusercontent.com/Ckmv8uJJ7zjkKDGgIiW6AYMgV32r-1_1GXLzDw4mbDeuQ444uY4S-Z1NFB2H_i2-e2Y=w480-h960-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.nazarick.ronaldowallpaperhd"
+      "title": "Photocall TV Advice Guide",
+      "image": "https://play-lh.googleusercontent.com/D6pr6jGHqWnZ50p-ZZus89qFDz0h7mNVuGWk2T8RVjGITQ2TEDp3sDTS57HjA6QOvJQ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.photocalltvadviceguidelive"
     },
     {
       "id": 8,
-      "title": "Calendar 2023",
-      "image": "https://play-lh.googleusercontent.com/hxP61bSrBW_dFko80rQm5hRQxafoeqG2EkCX6kQWRlPOI4DiWHj4i6RhRYqMfQYHS-JQ=w480-h960",
-      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.kalendermasehidanjawa"
+      "title": "Lisa Blackpink Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/2upUd9qui3zqIr__toOqXm6majYB5DWCpXPYYSJoMkdjg5pQM3WbANsL-NeqJG3ug2aA=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.lalisablackpinkwallpaperhd"
     },
     {
       "id": 7,
-      "title": "How to Draw Anime Video",
-      "image": "https://play-lh.googleusercontent.com/LDBVBfoBNsOCFmzFn3kUAHdw-YKIEE8IILSLDSRQM_nxj82w-OKEHSPXpTdZNvdAGds=w480-h960",
-      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.howtodrawscenery"
+      "title": "Rose Blackpink Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/8vOXT5A2NLLBXfItfzFxtLOmWIBiG4b9AGRwzAB-4aElh7_HcZet6c0AvIqkS6dnwA=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.roseblackpinkwallpaperhd"
     },
     {
       "id": 6,
-      "title": "Anya Forger Wallpaper",
-      "image": "https://play-lh.googleusercontent.com/fGQrCW-MeaYBqZfMvx4ZQv3lIjGWSj3QkrPZedsGzK8aNGpLRiv2z9yzoPJs28PL25I=w480-h960",
-      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.anyaforgerwallpaperhd"
+      "title": "Jisoo Blackpink Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/XvXFUWjhgwccIgXFq8wXulOpgkQQMis3P47WBKe9sgeh_hy7fiVZKU2d4ZE4qBuUcUM=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.jisooblackpinkwallpaperhd"
     },
     {
       "id": 5,
-      "title": "Lisa Blackpink Wallpaper",
-      "image": "https://play-lh.googleusercontent.com/zoeCtLYyNCERmViBNofDgAAxk5jldmL-U-jCauWczX_y1yoW1tAIWAqe1HVnsCBHbweg=w480-h960",
-      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.lisablackpinkwallpaperhd"
+      "title": "Jennie Blackpink Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/4ZZv7qWQGqw1OIBZDWMgoXvd5qRiWhxUoTdgdzY1R0xdyPPwzOSE-TpbXj9Cslab5K8n=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.jennieblackpinkwallpaperhd"
     },
     {
       "id": 4,
-      "title": "Chinese Movies",
-      "image": "https://play-lh.googleusercontent.com/BimRUik8vtOgSKEUf88bvfxy90XEihaxbL7RiovtjgoLxmjoiuAz9XEKcadpsUX_wGY=w480-h960",
-      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.cinemachinesemovies"
+      "title": "Wednesday Addams Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/oXuMOhxQ3gk4BPsC3GT0YfFEbRps1LdlOBNa5qacvVp8-e2vCSU7FuqZWt7wBxanuaQ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.wednesdayaddamswallpaperhd"
     },
     {
       "id": 3,
-      "title": "Todoroki Shoto Wallpapers 4K",
-      "image": "https://play-lh.googleusercontent.com/kRY8l_1kdzMr3O-AaD3j0fVCcQ9bn_qggREsKgc6zp3UPWOIp9ToHLdtxpF2U0PbhQ=w480-h960",
-      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.todorokishoutowallpapers"
+      "title": "Sakura School Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/h2hbZ8Wmmu8I0vPQYWNmNxKxHC8hsR0-QI1fz8-ycoa4GdBqEEhcl4T1RWX6NYzi9pg=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.sakuraschoolwallpaperhd"
     },
     {
       "id": 2,
-      "title": "Wallpaper Kawaii 4K",
-      "image": "https://play-lh.googleusercontent.com/7pk5Tt-GHCShrwzD6Y3gMRWLcDARlFU95QFToGPqNdKcQSqSLHCIwLKMb9P528GNBw=w480-h960-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.kawaiiwallpapershd"
+      "title": "Lionel Messi Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/ZdJOpeAM1YIyZw27E-1AuJUqEphW3PCr4WZ4VVbwKQRUtj6DU20-LdYRVAQfGMHPFy8=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.lionelmessiwallpaperhd"
     },
     {
       "id": 1,
-      "title": "Wallpaper Mecca HD Offline",
-      "image": "https://play-lh.googleusercontent.com/LWn3sCsRg2DxAEcNz_nD7zmm3JSS5hghC9nSM1KGxHU1nymcRWBf4FHaLVBK2XFUVis=w480-h960",
-      "link": "https://play.google.com/store/apps/details?id=com.indahgemilangjaya.meccawallpaperhd"
+      "title": "Ronaldo Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/Ckmv8uJJ7zjkKDGgIiW6AYMgV32r-1_1GXLzDw4mbDeuQ444uY4S-Z1NFB2H_i2-e2Y=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.ronaldowallpaperhd"
     }
   ],
 
@@ -114,12 +120,12 @@
     {
       "id":88,
       "name_category":"Messi",
-      "image":"https://i.pinimg.com/564x/cc/e0/a7/cce0a7dff33970ce86304cd276b317e2.jpg"
+      "image":"https://i.pinimg.com/originals/c1/af/3a/c1af3a31abc293b9f0b29cc4b7302853.jpg"
     },
     {
       "id":87,
       "name_category":"Ronaldo",
-      "image":"https://fsa.zobj.net/crop.php?r=oZjGLaxrDQ3zpyg02lDEoQe7-m0YYOtIxOSDgYy5IUdcUgid_4AHgTJILaBfGkp25SCnsEQHTy6N8G905tXZQ67VaUwvGcFSVYYO5s5rOkuKiMp45Yhuf1VrP_HyhYx3EwR1Wivs04-lFqIiDTo3yWFaS70INg05i1YYsalhlgXYG57JuQmeSBGB-R1PCKFezrGcC320Rx_a3OXW"
+      "image":"https://i.pinimg.com/originals/50/4a/e5/504ae5478919943238d251b0ea596dc8.jpg"
     },
     {
       "id":86,
@@ -553,6 +559,102 @@
     }
   ],
   "Data":[
+    {
+      "id": 570,
+      "title": "Messi 570",
+      "image": "https://i.pinimg.com/originals/d5/92/2d/d5922d588993d7ddf44cd2372e4581c3.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 569,
+      "title": "Messi 569",
+      "image": "https://i.pinimg.com/originals/4f/55/a1/4f55a1238f712000b064cdc783ecc146.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 568,
+      "title": "Messi 568",
+      "image": "https://i.pinimg.com/originals/c1/af/3a/c1af3a31abc293b9f0b29cc4b7302853.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 567,
+      "title": "Messi 567",
+      "image": "https://i.pinimg.com/originals/68/c6/16/68c61684768df064f5654ef6d69b536e.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 566,
+      "title": "Messi 566",
+      "image": "https://i.pinimg.com/originals/04/fb/ad/04fbada57aff159ee8a16714c0b94016.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 565,
+      "title": "Messi 565",
+      "image": "https://i.pinimg.com/originals/98/c9/6c/98c96c073a27c3188bbd77c086df5808.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 564,
+      "title": "Messi 564",
+      "image": "https://i.pinimg.com/originals/41/ef/4b/41ef4bcd675847f3ee5e595ec4a5e60d.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 563,
+      "title": "Messi 563",
+      "image": "https://i.pinimg.com/originals/ec/71/5c/ec715c0b1b45b7e48dbeaea445498244.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 562,
+      "title": "Messi 562",
+      "image": "https://i.pinimg.com/originals/77/5e/72/775e727bd705ee51027424fbc854bb30.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 561,
+      "title": "Messi 561",
+      "image": "https://i.pinimg.com/originals/b1/5c/fe/b15cfe255e920de13638f501d6de98d9.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 560,
+      "title": "Messi 560",
+      "image": "https://i.pinimg.com/originals/03/7c/bc/037cbc614d13e8bde3e361e4f6056e5c.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 559,
+      "title": "Messi 559",
+      "image": "https://i.pinimg.com/originals/f6/69/05/f6690519223f29491f9950f8c94625c5.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 558,
+      "title": "Messi 558",
+      "image": "https://i.pinimg.com/originals/37/83/74/3783740d165e8971514803d434acea89.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 557,
+      "title": "Messi 557",
+      "image": "https://i.pinimg.com/originals/f0/5b/6f/f05b6f6d8c9ebacc49474885da7ecafa.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 556,
+      "title": "Messi 556",
+      "image": "https://i.pinimg.com/originals/ee/a0/78/eea0783c16c968d7160eec275caf420d.jpg",
+      "name_category":"Messi"
+    },
+    {
+      "id": 555,
+      "title": "Messi 555",
+      "image": "https://i.pinimg.com/originals/96/dd/66/96dd664d07fb5590f4135a980202a3fe.jpg",
+      "name_category":"Messi"
+    },
     {
       "id": 554,
       "title": "Messi 554",
@@ -3876,6 +3978,126 @@
       "title": "Messi 1",
       "image": "https://i.imgur.com/bMEyKZ5.jpg",
       "name_category":"Messi"
+    },
+    {
+      "id":"240",
+      "title":"Ronaldo 240",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/55/e1/5b/55e15bb366ceace290263479ac6cfabe.jpg"
+    },
+    {
+      "id":"239",
+      "title":"Ronaldo 239",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/00/ff/cf/00ffcf18c1af8a1c3075a387e85cba4a.jpg"
+    },
+    {
+      "id":"238",
+      "title":"Ronaldo 238",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/7f/31/7b/7f317b67dda5d8774a25499db29bfd49.jpg"
+    },
+    {
+      "id":"237",
+      "title":"Ronaldo 237",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/564x/b3/ee/cc/b3eeccb7345d8980de7de4b4c3a4ca1b.jpg"
+    },
+    {
+      "id":"236",
+      "title":"Ronaldo 236",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/b9/f5/9c/b9f59c5cc5be107bbbe8f6596f6d8bc4.jpg"
+    },
+    {
+      "id":"235",
+      "title":"Ronaldo 235",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/f2/2c/1d/f22c1d35cb8bb4dd53e309a222041a6e.jpg"
+    },
+    {
+      "id":"234",
+      "title":"Ronaldo 234",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/c2/ee/ea/c2eeea94cae4c616b37d0b32d9678e93.jpg"
+    },
+    {
+      "id":"233",
+      "title":"Ronaldo 233",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/f4/4f/26/f44f26c752e7c543dac02ab108935d34.jpg"
+    },
+    {
+      "id":"232",
+      "title":"Ronaldo 232",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/00/b5/d2/00b5d2c4f055c37c9f7e6c78345a5255.jpg"
+    },
+    {
+      "id":"231",
+      "title":"Ronaldo 231",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/ab/18/9c/ab189c16f2783fa8aec92a5bbb0f5bee.jpg"
+    },
+    {
+      "id":"230",
+      "title":"Ronaldo 230",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/96/03/7a/96037ae791d4fe2cb8241f2876b95bec.jpg"
+    },
+    {
+      "id":"229",
+      "title":"Ronaldo 229",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/50/4a/e5/504ae5478919943238d251b0ea596dc8.jpg"
+    },
+    {
+      "id":"228",
+      "title":"Ronaldo 228",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/f2/01/3e/f2013e59180130bfc43dddad8ad4127e.jpg"
+    },
+    {
+      "id":"227",
+      "title":"Ronaldo 227",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/a5/19/87/a519879a72f12629986d985d34f3165a.jpg"
+    },
+    {
+      "id":"226",
+      "title":"Ronaldo 226",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/8d/74/47/8d7447b796bad31799c6d1472d1922cd.jpg"
+    },
+    {
+      "id":"225",
+      "title":"Ronaldo 225",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/39/7b/e5/397be55335485e185d12fe8d4a2b76cd.jpg"
+    },
+    {
+      "id":"224",
+      "title":"Ronaldo 224",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/78/a9/d8/78a9d81af8f7208cc4b9d78038ca916f.jpg"
+    },
+    {
+      "id":"223",
+      "title":"Ronaldo 223",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/a0/f9/0e/a0f90e22a870e042c3bcedb14ed53f57.jpg"
+    },
+    {
+      "id":"222",
+      "title":"Ronaldo 222",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/42/7d/f4/427df476a38e2ef937f9e4e5dfaf47ea.jpg"
+    },
+    {
+      "id":"221",
+      "title":"Ronaldo 221",
+      "name_category":"Ronaldo",
+      "image":"https://i.pinimg.com/originals/7a/56/3f/7a563f32a4082cd5c42aa9ddd58fb818.jpg"
     },
     {
       "id":"220",
