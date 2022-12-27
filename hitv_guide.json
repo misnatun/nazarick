@@ -49,7 +49,20 @@
     }
   ],
   
-  "More": [
+  "More":
+  [
+    {
+      "id": 10,
+      "title": "Hi TV HD Drama Tips",
+      "image": "https://play-lh.googleusercontent.com/AnRqHhLkV7kqHEnpG6Y-Nqj_U2UGOo_enGlCqZPi9wmC-XjstECXpSFa-jpLeWVxexw=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.hitvhddramakoreantips"
+    },
+    {
+      "id": 9,
+      "title": "Photocall TV Advice Guide",
+      "image": "https://play-lh.googleusercontent.com/D6pr6jGHqWnZ50p-ZZus89qFDz0h7mNVuGWk2T8RVjGITQ2TEDp3sDTS57HjA6QOvJQ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.photocalltvadviceguidelive"
+    },
     {
       "id": 8,
       "title": "Lisa Blackpink Wallpaper HD",
