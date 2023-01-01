@@ -1,0 +1,210 @@
+{
+  "Ads": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "APPLOVIN-D",
+
+      "open_ads_admob": "ca-app-pub-1560107526419801/9525093112",
+      "open_ads_alien": "null",
+      "switch_open_ads": "1",
+
+      "main_ads_banner": "ca-app-pub-1560107526419801/8044490483",
+      "main_ads_intertitial": "ca-app-pub-1560107526419801/4240976849",
+      "main_ads_natives": "ca-app-pub-1560107526419801/5418327142",
+
+      "backup_ads_banner": "a51d3541c489727a",
+      "backup_ads_intertitial": "64e43035d16ca939",
+      "backup_ads_natives": "null",
+
+      "interval_intertitial": "0",
+      "counter_intertitial": "0",
+
+      "switch_banner_natives_ads": "2",
+      "start_position_native_ads": "2",
+      "interval_native_ads": "3",
+
+      "random_list": "0",
+      "on_off_category": "0",
+      "on_off_moreapp": "1",
+
+      "one_signal_api_key": "null",
+      "link_moreapp": "https://play.google.com/store/apps/developer?id=nazarick",
+
+      "child_direct_gdpr": "true",
+
+      "initialize_sdk": "null",
+      "initialize_sdk_backup_ads": "null",
+
+      "protect_app": "false",
+      "base_64_license_key": "null",
+
+      "high_paying_keyword_1": "Insurance,Finance,Gas,Electricity,Mortgage,Attorney,Loans,Lawyer,Donate,Conference Call,Degree,Credit,Treatment,Software,Classes,Recovery,Trading,Rehab,Hosting,Transfer,Claim",
+      "high_paying_keyword_2": "Selandia Baru,Norwegia,Australia,Kanada,Inggris Raya,Amerika Serikat,India,Irlandia,Belanda,Jerman,Finlandia,Perancis,Italy,Swiss",
+      "high_paying_keyword_3": "Credit",
+      "high_paying_keyword_4": "Property",
+      "high_paying_keyword_5": "Pinjol",
+
+      "status_app": "0",
+      "link_redirect": "https://play.google.com"
+    }
+  ],
+  
+  "More":
+  [
+    {
+      "id": 12,
+      "title": "Mercedes Benz Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/Mj-8eaevnCy_PvevEh21dniGNQL3f9i5JN8o1MjT1OWpsNXwmQehjY42s8DCcb2L1Wg=w480-h960-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.mercedesbenzwallpaperhd"
+    },
+    {
+      "id": 11,
+      "title": "Kimberly Loaiza Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/R4pmgt5Ff3LgQ2Bugo86jCs_gSglhhNQUxrNr6EToKbsnUkvegTrsHo_XGI6ssoVrfk=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.kimberlyloaizawallpaperhd"
+    },
+    {
+      "id": 10,
+      "title": "Hi TV HD Drama Tips",
+      "image": "https://play-lh.googleusercontent.com/AnRqHhLkV7kqHEnpG6Y-Nqj_U2UGOo_enGlCqZPi9wmC-XjstECXpSFa-jpLeWVxexw=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.hitvhddramakoreantips"
+    },
+    {
+      "id": 9,
+      "title": "Photocall TV Advice Guide",
+      "image": "https://play-lh.googleusercontent.com/D6pr6jGHqWnZ50p-ZZus89qFDz0h7mNVuGWk2T8RVjGITQ2TEDp3sDTS57HjA6QOvJQ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.photocalltvadviceguidelive"
+    },
+    {
+      "id": 8,
+      "title": "Lisa Blackpink Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/2upUd9qui3zqIr__toOqXm6majYB5DWCpXPYYSJoMkdjg5pQM3WbANsL-NeqJG3ug2aA=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.lalisablackpinkwallpaperhd"
+    },
+    {
+      "id": 7,
+      "title": "Rose Blackpink Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/8vOXT5A2NLLBXfItfzFxtLOmWIBiG4b9AGRwzAB-4aElh7_HcZet6c0AvIqkS6dnwA=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.roseblackpinkwallpaperhd"
+    },
+    {
+      "id": 6,
+      "title": "Jisoo Blackpink Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/XvXFUWjhgwccIgXFq8wXulOpgkQQMis3P47WBKe9sgeh_hy7fiVZKU2d4ZE4qBuUcUM=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.jisooblackpinkwallpaperhd"
+    },
+    {
+      "id": 5,
+      "title": "Jennie Blackpink Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/4ZZv7qWQGqw1OIBZDWMgoXvd5qRiWhxUoTdgdzY1R0xdyPPwzOSE-TpbXj9Cslab5K8n=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.jennieblackpinkwallpaperhd"
+    },
+    {
+      "id": 4,
+      "title": "Wednesday Addams Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/oXuMOhxQ3gk4BPsC3GT0YfFEbRps1LdlOBNa5qacvVp8-e2vCSU7FuqZWt7wBxanuaQ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.wednesdayaddamswallpaperhd"
+    },
+    {
+      "id": 3,
+      "title": "Sakura School Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/h2hbZ8Wmmu8I0vPQYWNmNxKxHC8hsR0-QI1fz8-ycoa4GdBqEEhcl4T1RWX6NYzi9pg=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.sakuraschoolwallpaperhd"
+    },
+    {
+      "id": 2,
+      "title": "Lionel Messi Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/ZdJOpeAM1YIyZw27E-1AuJUqEphW3PCr4WZ4VVbwKQRUtj6DU20-LdYRVAQfGMHPFy8=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.lionelmessiwallpaperhd"
+    },
+    {
+      "id": 1,
+      "title": "Ronaldo Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/Ckmv8uJJ7zjkKDGgIiW6AYMgV32r-1_1GXLzDw4mbDeuQ444uY4S-Z1NFB2H_i2-e2Y=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.ronaldowallpaperhd"
+    }
+  ],
+
+  "Categories": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "image": "file:///android_asset/gambar/ic_awal.webp"
+    }
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "name_category": "Tutorial",
+      "title": "Lato-lato Permainan Sedang Viral",
+      "image": "file:///android_asset/gambar/ic_awal.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Baca Lato-lato Permainan Sedang Viral",
+      "link": "file:///android_asset/guide/guide1.html"
+    },
+    {
+      "id": 2,
+      "name_category": "Tutorial",
+      "title": "Sejarah Lato-lato",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Baca Selengkapnya Sejarah Lato-lato",
+      "link": "file:///android_asset/guide/guide2.html"
+    },
+    {
+      "id": 3,
+      "name_category": "Tutorial",
+      "title": "Manfaat Main Lato-lato",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Baca Selengkapnya Manfaat Main Lato-lato",
+      "link": "file:///android_asset/guide/guide3.html"
+    },
+    {
+      "id": 4,
+      "name_category": "Tutorial",
+      "title": "Teknik Dasar Main Lato-Lato",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Baca Selengkapnya Teknik Dasar Main Lato-Lato",
+      "link": "file:///android_asset/guide/guide4.html"
+    },
+    {
+      "id": 5,
+      "name_category": "Tutorial",
+      "title": "Cara Pasang Lato-lato",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Baca Cara Pasang Lato-lato dengan Benar",
+      "link": "file:///android_asset/guide/guide5.html"
+    },
+    {
+      "id": 6,
+      "name_category": "Tutorial",
+      "title": "Teknik Dasar Bermain Lato-lato",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/3.webp",
+      "description": "Baca Teknik Dasar Bermain Lato-lato",
+      "link": "file:///android_asset/guide/guide6.html"
+    },
+    {
+      "id": 7,
+      "name_category": "Tutorial",
+      "title": "Cara Mudah Main Lato-lato",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/1.webp",
+      "description": "Baca Cara Mudah Memainkan Lato-lato",
+      "link": "file:///android_asset/guide/guide7.html"
+    },
+    {
+      "id": 8,
+      "name_category": "Tutorial",
+      "title": "Tutorial Belajar Lato-lato Kilat",
+      "image": "file:///android_asset/gambar/iconguide.webp",
+      "gambar": "file:///android_asset/gambar/2.webp",
+      "description": "Baca Tutorial Belajar Lato-lato Kilat",
+      "link": "file:///android_asset/guide/guide8.html"
+    }
+  ]
+}
