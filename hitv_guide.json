@@ -44,18 +44,42 @@
       "high_paying_keyword_4": "Property",
       "high_paying_keyword_5": "Pinjol",
 
-      "status_app": "0",
-      "link_redirect": "https://play.google.com"
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=com.nazarick.temuteamupguidetipsshop"
     }
   ],
   
   "More":
   [
     {
+      "id": 14,
+      "title": "How to play Lato lato",
+      "image": "https://play-lh.googleusercontent.com/FU0fetAmBHrYVoH88F4oXdxexaPpe8--vwxX9lw7KDxAGvLaxxFu5PptsDxl_KKWsQ=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.caramainlatolatojadulguide"
+    },
+    {
+      "id": 13,
+      "title": "Loklok Tips Movies Online",
+      "image": "https://play-lh.googleusercontent.com/b79hZAh8BJLlNhEPKo0syusefDiC7g7N_VyvXym8jVJ_mfIWkDXS6bU-2J3_qjc37E4=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.lokloktipsmoviesonline"
+    },
+    {
+      "id": 12,
+      "title": "Temu Team Up Guide Tips",
+      "image": "https://play-lh.googleusercontent.com/wnldbfunQ9vugHKagSBBwhCtQC2HhUCeeBl3wyVjiHTcuDJVQUbCmN3TWXicEydZVw=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.temuteamupguidetipsshop"
+    },
+    {
+      "id": 11,
+      "title": "Kimberly Loaiza Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/R4pmgt5Ff3LgQ2Bugo86jCs_gSglhhNQUxrNr6EToKbsnUkvegTrsHo_XGI6ssoVrfk=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.kimberlyloaizawallpaperhd"
+    },
+    {
       "id": 10,
-      "title": "Hi TV HD Drama Tips",
-      "image": "https://play-lh.googleusercontent.com/AnRqHhLkV7kqHEnpG6Y-Nqj_U2UGOo_enGlCqZPi9wmC-XjstECXpSFa-jpLeWVxexw=w480-h960",
-      "link": "https://play.google.com/store/apps/details?id=com.nazarick.hitvhddramakoreantips"
+      "title": "Mercedes Benz Wallpaper HD",
+      "image": "https://play-lh.googleusercontent.com/Mj-8eaevnCy_PvevEh21dniGNQL3f9i5JN8o1MjT1OWpsNXwmQehjY42s8DCcb2L1Wg=w480-h960",
+      "link": "https://play.google.com/store/apps/details?id=com.nazarick.mercedesbenzwallpaperhd"
     },
     {
       "id": 9,
