@@ -4,13 +4,13 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads": "APPLOVIN-D",
 
-      "open_ads_admob": "ca-app-pub-1560107526419801/9525093112",
+      "open_ads_admob": "ca-app-pub-3940256099942544/3419835294x",
       "open_ads_alien": "null",
       "switch_open_ads": "1",
 
-      "main_ads_banner": "ca-app-pub-1560107526419801/8044490483",
-      "main_ads_intertitial": "ca-app-pub-1560107526419801/4240976849",
-      "main_ads_natives": "ca-app-pub-1560107526419801/5418327142",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_natives": "ca-app-pub-3940256099942544/2247696110x",
 
       "backup_ads_banner": "a51d3541c489727a",
       "backup_ads_intertitial": "64e43035d16ca939",
@@ -28,7 +28,7 @@
       "on_off_moreapp": "1",
 
       "one_signal_api_key": "null",
-      "link_moreapp": "https://play.google.com/store/apps/developer?id=nazarick",
+      "link_moreapp": "https://play.google.com",
 
       "child_direct_gdpr": "true",
 
@@ -44,8 +44,8 @@
       "high_paying_keyword_4": "Property",
       "high_paying_keyword_5": "Pinjol",
 
-      "status_app": "0",
-      "link_redirect": "https://play.google.com"
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=oku.lemonokuof.satorugojowallpaperhd"
     }
   ],
   
