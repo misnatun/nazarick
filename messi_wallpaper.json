@@ -4,14 +4,14 @@
       "select_main_ads": "ADMOB",
       "select_backup_ads": "APPLOVIN-D",
 
-      "open_ads_admob": "ca-app-pub-1560107526419801/1464909075",
-      "open_ads_alien": "",
+      "open_ads_admob": "ca-app-pub-3940256099942544/3419835294x",
+      "open_ads_alien": "null",
       "switch_open_ads": "1",
 
-      "main_ads_banner": "ca-app-pub-1560107526419801/5404154082",
-      "main_ads_intertitial": "ca-app-pub-1560107526419801/3524930352",
-      "main_ads_natives": "ca-app-pub-1560107526419801/2777990749",
-      "main_ads_rewards": "ca-app-pub-1560107526419801/4382070937",
+      "main_ads_banner": "ca-app-pub-3940256099942544/6300978111x",
+      "main_ads_intertitial": "ca-app-pub-3940256099942544/1033173712x",
+      "main_ads_natives": "ca-app-pub-3940256099942544/2247696110x",
+      "main_ads_rewards": "ca-app-pub-3940256099942544/5224354917x",
 
       "backup_ads_banner": "a51d3541c489727a",
       "backup_ads_intertitial": "64e43035d16ca939",
@@ -33,8 +33,8 @@
       "high_paying_keyword_4": "Property",
       "high_paying_keyword_5": "Pinjol",
 
-      "status_app": "0",
-      "link_redirect": "https://",
+      "status_app": "1",
+      "link_redirect": "https://play.google.com/store/apps/details?id=oku.lemonokuof.lionelmessiwallpaperhdfootball",
 
       "child_direct_gdpr": "false",
       "one_signal_api_key": "",
